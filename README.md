@@ -4,6 +4,9 @@ Numerical method assignment on edge detection of images. This project would util
 ### Test Image
 <img src = 'mahomes.jpeg'>
 
+### Result
+<img src = 'Result.png'>
+
 ## Setup environment
 ```
 conda create --name main-ds python=3.11
