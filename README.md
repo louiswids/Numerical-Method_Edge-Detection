@@ -9,7 +9,7 @@ Numerical method assignment on edge detection of images. This project would util
 
 ## Setup environment
 ```
-conda create --name main-ds python=3.11
+conda create --name main-ds python=3.10
 conda activate main-ds
 pip install numpy matplotlib jupyter math
 jupyter notebook
